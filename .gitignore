@@ -1,0 +1,7 @@
+venv/
+.env
+/vscode
+/core/__pycache__apt
+update
+apt
+core/__pycache__/
